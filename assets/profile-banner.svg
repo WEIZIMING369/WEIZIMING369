@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Wei Ziming data science profile</title><desc id="desc">Dark teal banner with an abstract rising data chart</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#143742"/><stop offset="1" stop-color="#087c78"/></linearGradient><linearGradient id="line" x2="1" y2="0"><stop stop-color="#f4a879"/><stop offset="1" stop-color="#b9e6d4"/></linearGradient></defs>
+<rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+<circle cx="1070" cy="-30" r="240" fill="none" stroke="#ffffff" stroke-opacity=".09" stroke-width="2"/><circle cx="1070" cy="-30" r="175" fill="none" stroke="#ffffff" stroke-opacity=".08" stroke-width="2"/>
+<text x="60" y="72" fill="#bde4d9" font-size="17" font-family="Arial,sans-serif" font-weight="700" letter-spacing="4">DATA SCIENCE  /  VISUALIZATION</text>
+<text x="58" y="165" fill="#ffffff" font-size="66" font-family="Arial,sans-serif" font-weight="700" letter-spacing="-2">Wei Ziming</text>
+<text x="61" y="213" fill="#d8ece8" font-size="23" font-family="Arial,sans-serif">Clear questions. Reproducible analysis. Honest stories.</text>
+<path d="M742 220 L804 190 L858 204 L914 145 L967 156 L1024 99 L1090 111 L1140 64" fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#f4a879" stroke="#143742" stroke-width="4"><circle cx="742" cy="220" r="9"/><circle cx="804" cy="190" r="9"/><circle cx="858" cy="204" r="9"/><circle cx="914" cy="145" r="9"/><circle cx="967" cy="156" r="9"/><circle cx="1024" cy="99" r="9"/><circle cx="1090" cy="111" r="9"/><circle cx="1140" cy="64" r="9"/></g>
+</svg>

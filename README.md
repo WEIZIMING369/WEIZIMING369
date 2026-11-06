@@ -1,3 +1,5 @@
+![Wei Ziming data science banner](assets/profile-banner.svg)
+
 <div align="center">
 
 # Wei Ziming
