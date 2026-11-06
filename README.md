@@ -8,7 +8,7 @@
 
 I turn focused questions into clear analysis, readable charts and work others can run again.
 
-[Explore my portfolio](https://weiziming369.github.io/data-science-portfolio/) · [View featured project](https://github.com/WEIZIMING369/data-science-project) · [Browse coursework](https://github.com/WEIZIMING369/CISC7204-MC665213-2026GitHub)
+[Explore my CISC7204 portfolio](https://weiziming369.github.io/cisc7204-portfolio/) · [Practice 09 Iris portfolio](https://weiziming369.github.io/data-science-portfolio/) · [Browse source work](https://github.com/WEIZIMING369/CISC7204-MC665213-2026GitHub)
 
 </div>
 
@@ -29,7 +29,8 @@ Using the UCI Iris dataset, I compared petal and sepal features with scatter plo
 
 | Explore | What you will find |
 | :--- | :--- |
-| [Practice 09 portfolio](https://weiziming369.github.io/data-science-portfolio/) | Iris project story, visual findings and reproduction steps |
+| [CISC7204 portfolio](https://weiziming369.github.io/cisc7204-portfolio/) | All ten exercises and both assignments in one visual index |
+| [Practice 09 portfolio](https://weiziming369.github.io/data-science-portfolio/) | Separate Iris project story, visual findings and reproduction steps |
 | [Suggested exercises](https://github.com/WEIZIMING369/CISC7204-MC665213-2026GitHub/tree/main/exercises) | Ten exercises covering Python, EDA and visualization |
 | [Assignment 01](https://github.com/WEIZIMING369/CISC7204-MC665213-2026GitHub/tree/main/assignments/assignment-01) | Data import, wrangling, analysis and modeling |
 | [Assignment 02](https://github.com/WEIZIMING369/CISC7204-MC665213-2026GitHub/tree/main/assignments/assignment-02) | Visual analysis and interactive Dash projects |
@@ -40,4 +41,4 @@ Using the UCI Iris dataset, I compared petal and sepal features with scatter plo
 
 ---
 
-<sub>Profile prepared with assistance from OpenAI Codex. The linked GitHub Pages portfolio documents Practice 09; coursework is organized separately.</sub>
+<sub>Profile prepared with assistance from OpenAI Codex. The CISC7204 portfolio indexes exercises and assignments; the Practice 09 Iris portfolio remains separate.</sub>
